@@ -2,7 +2,6 @@ public class JavaBasics {
     public static void main(String args[]){
         System.out.println("Hello Java");
 
-
         // Variables 
         int a = 10;
         System.out.println(a);
